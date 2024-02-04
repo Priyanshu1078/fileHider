@@ -1,5 +1,3 @@
-Certainly! If you want to integrate OTP authentication into the existing [fileHider](https://github.com/Priyanshu1078/fileHider) repository, you can follow these steps:
-
 ### File Hider App with OTP Authentication
 
 #### Overview
